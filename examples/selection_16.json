@@ -1,0 +1,114 @@
+[
+  {
+    "index": 1,
+    "filename": "01.gif",
+    "category": "日常回复",
+    "text": "在吗",
+    "action": "探出小脑袋，眨眼"
+  },
+  {
+    "index": 2,
+    "filename": "02.gif",
+    "category": "生活日常",
+    "text": "加油",
+    "action": "绑头带，握拳打气"
+  },
+  {
+    "index": 3,
+    "filename": "03.gif",
+    "category": "日常回复",
+    "text": "好的",
+    "action": "开心点头，翅膀比 OK"
+  },
+  {
+    "index": 4,
+    "filename": "04.gif",
+    "category": "情绪表达",
+    "text": "哈哈哈",
+    "action": "捧腹大笑，笑得打滚"
+  },
+  {
+    "index": 5,
+    "filename": "05.gif",
+    "category": "社交",
+    "text": "拜拜",
+    "action": "挥动小翅膀，渐渐远去"
+  },
+  {
+    "index": 6,
+    "filename": "06.gif",
+    "category": "关系互动",
+    "text": "抱抱",
+    "action": "张开双翅，扑向镜头"
+  },
+  {
+    "index": 7,
+    "filename": "07.gif",
+    "category": "社交",
+    "text": "早安",
+    "action": "迎着太阳挥翅膀"
+  },
+  {
+    "index": 8,
+    "filename": "08.gif",
+    "category": "工作日常",
+    "text": "摸鱼中",
+    "action": "躲在电脑后偷偷玩手机"
+  },
+  {
+    "index": 9,
+    "filename": "09.gif",
+    "category": "生活日常",
+    "text": "干饭",
+    "action": "抱大饭碗，狼吞虎咽"
+  },
+  {
+    "index": 10,
+    "filename": "10.gif",
+    "category": "工作日常",
+    "text": "不想上班",
+    "action": "抱着床柱，赖着不走"
+  },
+  {
+    "index": 11,
+    "filename": "11.gif",
+    "category": "情绪表达",
+    "text": "委屈",
+    "action": "眼含泪水，嘴巴微撇"
+  },
+  {
+    "index": 12,
+    "filename": "12.gif",
+    "category": "工作日常",
+    "text": "加班中",
+    "action": "深夜敲键盘，眼圈发黑"
+  },
+  {
+    "index": 13,
+    "filename": "13.gif",
+    "category": "日常回复",
+    "text": "收到",
+    "action": "立正敬礼，认真点头"
+  },
+  {
+    "index": 14,
+    "filename": "14.gif",
+    "category": "生活日常",
+    "text": "困了",
+    "action": "打哈欠，头顶飘 Zzz"
+  },
+  {
+    "index": 15,
+    "filename": "15.gif",
+    "category": "关系互动",
+    "text": "谢谢",
+    "action": "双翅合十，鞠躬"
+  },
+  {
+    "index": 16,
+    "filename": "16.gif",
+    "category": "关系互动",
+    "text": "爱你",
+    "action": "双翅比心，冒出爱心"
+  }
+]
